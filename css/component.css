@@ -43,19 +43,14 @@ html,
 }
 
 .grid figure img {
-	width: 260px;
-    min-width: 260px;
-    max-width: 260px;
-    height: 180px;
-    min-height: 180px;
-    max-height: 180px;
+	width: 250px;
+    min-width: 250px;
+    max-width: 250px;
+    height: 250px;
+    min-height: 250px;
+    max-height: 250px;
 	display: block;
 	position: relative;
-    filter: grayscale(0.4);
-  -webkit-filter: grayscale(0.4);
-  -moz-filter: grayscale(0.4);
-  -o-filter: grayscale(0.4);
-  -ms-filter: grayscale(0.4);
 }
 
 .grid figcaption {
@@ -87,12 +82,12 @@ html,
 
 /* Caption Style 1 */
 .cs-style-1 figcaption {
-	width: 260px;
-    max-width: 260px;
-    min-width: 260px;
-    height: 180px;
-    min-height: 180px;
-    max-height: 180px;
+	width: 250px;
+    max-width: 250px;
+    min-width: 250px;
+    height: 250px;
+    min-height: 250px;
+    max-height: 250px;
 	opacity: 0;
 	text-align: center;
 	-webkit-backface-visibility: hidden;
