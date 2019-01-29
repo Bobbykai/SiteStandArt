@@ -11,7 +11,7 @@ body {
 }
 
 p {
-    line-height: 1.75;
+    line-height: 2.00;
 }
 
 a {
@@ -62,7 +62,7 @@ section h3.section-subheading {
 
 @media (min-width: 768px) {
     section {
-        padding: 150px 0;
+        padding: 65px 0;
     }
 }
 
@@ -727,4 +727,33 @@ ul.social-buttons li a:hover {
 }
 .align-text1 {
   justify-content: center;
+
+}
+.pdescriptif {
+  align-items: stretch;
+}
+.p5{
+  justify-content: flex-start;
+}
+.titre1 {
+  justify-content: center;
+}
+.tit1 {
+  margin-top:65px;
+}
+.containerall {
+  
+  margin-top: 65px;
+}
+.containerval {
+  width:50%;
+  height: 100%;
+  text-align: center;
+  border-right: 1px solid black;
+}
+.containercomp {
+  width:50%;
+  height: 100%;
+  text-align: center;
+  border-left: 1px solid black;
 }
