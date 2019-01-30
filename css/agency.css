@@ -197,11 +197,12 @@ img::-moz-selection {
 header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/header-bg.jpg");
+    background-image: url("../img/banner.png");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
+    height: 700px;
 }
 
 header.masthead .intro-text {
@@ -779,6 +780,7 @@ ul.social-buttons li a:hover {
   width: 100%;
   text-align:right;
   margin-right: 15px;
-  scroll-behavior: smooth;
-  
+}
+.bleu{
+    color: #2C58A4;
 }
