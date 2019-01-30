@@ -109,12 +109,12 @@ html,
 
 
 .cs-style-1 figcaption span {
-    margin-top: 25px;
+    margin-top: 10px;
     color: white;
 	display: flex;
    justify-content: center;
     align-items: center;
-    font-size: 15px;
+    font-size: 13px;
 }
 
 .cs-style-1 figcaption a {
